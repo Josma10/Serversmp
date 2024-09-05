@@ -1,0 +1,23 @@
+[03:42:33] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:42:36] [ServerMain/INFO]: Loaded 1290 recipes
+[03:42:36] [ServerMain/INFO]: Loaded 1399 advancements
+[03:42:37] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:42:37] [Server thread/INFO]: Loading properties
+[03:42:37] [Server thread/INFO]: Default game type: SURVIVAL
+[03:42:37] [Server thread/INFO]: Generating keypair
+[03:42:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:42:37] [Server thread/INFO]: Using epoll channel type
+[03:42:37] [Server thread/INFO]: Preparing level "world"
+[03:42:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:42:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:42:44] [Worker-Main-1/INFO]: Preparing spawn area: 26%
+[03:42:44] [Server thread/INFO]: Time elapsed: 772 ms
+[03:42:44] [Server thread/INFO]: Done (6.612s)! For help, type "help"
+[03:46:52] [User Authenticator #1/INFO]: UUID of player JoseGames0_0 is 5062a895-40ab-4264-8e6f-8aaa0d1441c3
+[03:46:57] [Server thread/INFO]: JoseGames0_0[/10.243.124.20:64091] logged in with entity id 29 at (-808.3000000119209, 99.0, 1497.5007062296932)
+[03:46:57] [Server thread/INFO]: JoseGames0_0 joined the game
+[03:47:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04:21:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-111, y=102, z=133} jd{x=-118, y=99, z=132}
+[04:25:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-228, y=79, z=131} jd{x=-228, y=66, z=125}
+[04:26:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-228, y=79, z=131} jd{x=-228, y=63, z=121}
+[04:33:19] [Server thread/INFO]: JoseGames0_0 has made the advancement [Hidden in the Depths]
